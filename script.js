@@ -1,1 +1,5 @@
-window.addEventListener();
+window.addEventListener('keydown', playSound);
+
+function playSound() {
+    
+}
