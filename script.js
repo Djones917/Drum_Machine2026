@@ -1,5 +1,5 @@
 window.addEventListener('keydown', playSound);
 
-function playSound() {
-    
+function playSound(e) {
+    console.log(e.keyCode);
 }
